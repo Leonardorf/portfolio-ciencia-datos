@@ -1,6 +1,8 @@
 
 # Proyecto NTT DATA - RETO 3: Análisis Clientes Banco -  Objetivo anticipar el cierre de cuenta y abandono de la entidad
-Una entidad bancaria americana que opera en California, Texas y Alabama pretende implementar un modelo de abandono de clientes (modelo Churn) con el objetivo de poder anticiparse a la marcha de estos y poder realizar acciones comerciales para, precisamente, evitar la pérdida implícita en el abandono de los clientes. 
+
+
+1. Una entidad bancaria americana que opera en California, Texas y Alabama pretende implementar un modelo de abandono de clientes (modelo Churn) con el objetivo de poder anticiparse a la marcha de estos y poder realizar acciones comerciales para, precisamente, evitar la pérdida implícita en el abandono de los clientes. 
 
 La entidad bancaria, nos facilita una base de datos con 10.000 registros de información que contienen las siguientes variables contenidas en el df estados bank (csv): 
 
@@ -41,7 +43,7 @@ pretende implementar un modelo de abandono de clientes (modelo Churn) con el obj
 de poder anticiparse a la marcha de estos y poder realizar acciones comerciales para,
 precisamente, evitar la pérdida implícita en el abandono de los clientes.
 
-Leed el fichero de texto df_estados_bank.csv que se corresponde con el conjunto de datos
+2.1 Leed el fichero de texto df_estados_bank.csv que se corresponde con el conjunto de datos
 a trabajar en este reto.
 
 Realizad una correcta limpieza de datos inicial con el objetivo de preparar la base de
