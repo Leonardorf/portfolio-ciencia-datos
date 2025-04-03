@@ -1,7 +1,7 @@
 # portfolio-ciencia-datos
 Portafolio personal de proyectos de analítica y ciencia de datos
 
-## Proyectos -Pácticas
+## Proyectos -Pácticas NTT DATA - [documentación](https://drive.google.com/drive/folders/1tyAeeFc5yHFMvOgKGEPRypgh_sgwZFsE?usp=sharing)
 
 1. [Proyecto NTT DATA - RETO 3: Análisis Clientes Banco](proyectos/NTT_DATA/reto-3-analisis-cliente-banco/README.md)
    - Descripción: Un análisis exhaustivo de los datos de clientes personas físicas con el objetivo anticipar el cierre de cuenta y abandono de la entidad.
