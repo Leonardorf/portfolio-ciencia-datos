@@ -8,8 +8,11 @@ Portafolio personal de proyectos de analítica y ciencia de datos
    - Tecnologías: Python, Pandas, Matplotlib, Python, Scikit-learn, Seaborn
 2. [Proyecto NTT DATA - RETO 3: Clasificación Pozos de Agua](proyectos/NTT_DATA/reto-3-clasificacion-agua/README.md)
    - Descripción: Predecir qué bombas de Agua de Tanzania funcionan y cuáles no.
+   - Tecnologías: Python, Pandas, Matplotlib, Python, Scikit-learn, Seaborn.
+3. [Proyecto NTT DATA - RETO 3: Crímenes Chicago(proyectos/NTT_DATA/reto-3-crimenes-chicago/README.md)
+   - Descripción: modelo predictivo índice de criminalidad de la ciudad de Chicago.
    - Tecnologías: Python, Pandas, Matplotlib, Python, Scikit-learn, Seaborn
-2. [Proyecto NTT DATA - RETO 2: SQL y NO SQL ESTADOS DE ESTADOS UNIDOS](proyectos/NTT_DATA/reto-2/README.md)
+4. [Proyecto NTT DATA - RETO 2: SQL y NO SQL ESTADOS DE ESTADOS UNIDOS](proyectos/NTT_DATA/reto-2/README.md)
    - Descripción: Uso libreria pymongo, DF, funciones, transformación y cálculos de los datos de ciertos estados de Estados Unidos.
    - Tecnologías: Python, MySQL, MongoDB
 3. [Proyecto NTT DATA - RETO 1: ESTADOS DE ESTADOS UNIDOS- Python](proyectos/NTT_DATA/reto-1-%20ESTADOS-DE-ESTADOS-UNIDOS/README.md)
