@@ -36,5 +36,11 @@ comunitaria.
 • Criminalidad_100000: Índice de criminalidad calculado por cada 100.000 personas
 en ese área comunitaria.
 
+Plantead una segmentación analítica de delitos atendiendo a sus características. Dar
+respuesta a las siguientes preguntas:
+• ¿Cuántos segmentos tiene la solución planteada?
+
+• ¿Qué características tienen los delitos de cada segmento?
+
 • Consumo_electrico: Nivel de consumo eléctrico medio del área comunitaria.
 
