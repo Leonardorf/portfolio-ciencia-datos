@@ -44,3 +44,4 @@ respuesta a las siguientes preguntas:
 
 • Consumo_electrico: Nivel de consumo eléctrico medio del área comunitaria.
 
+
